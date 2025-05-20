@@ -29,7 +29,7 @@ Table of Contents
 3.Screenshots
 https://github.com/SheriSaiSree/AutismDetection/tree/main/assets
 
-4. Installation
+4.Installation
 Clone the repository
 cd autism-detection
 Set up a virtual environment
@@ -60,7 +60,7 @@ Recall
 F1 Score
 Confusion Matrix Visualization
 
- 7.Contact
+7.Contact
 Author: Saisree Sheri
 GitHub: https://github.com/SheriSaiSree
 Email: sherisaisree@gmail.com
